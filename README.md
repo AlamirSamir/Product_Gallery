@@ -62,6 +62,4 @@ This application allows users to:
     ```bash
     ng serve
     ```
-    Open your browser at [http://localhost:4200](http://localhost:4200).
-
 ---
