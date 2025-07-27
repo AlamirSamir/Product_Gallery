@@ -1,0 +1,26 @@
+-main\src\app\footer\footer.component.css */
+.footer {
+  background: #222;
+  color: #fff;
+  padding: 24px 0;
+  text-align: center;
+}
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+.footer-links a {
+  color: #fff;
+  margin: 0 8px;
+  text-decoration: none;
+  font-weight: 500;
+}
+.footer-links a:hover {
+  text-decoration: underline;
+}
+.site-name {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
