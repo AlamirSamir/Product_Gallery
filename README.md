@@ -1,6 +1,6 @@
 Welcome to the Product Gallery! A modern, responsive e-commerce web application built with Angular and Tailwind CSS. Browse, search, sort, and shop for products with a seamless user experience—complete with dark mode support.
 
-🌐 **Live Demo:** [()]
+🌐 **Live Demo:** [(https://product-gallery-r3b69s7oo-alamirsamirs-projects.vercel.app/products)]
 
 ## 🚀 Project Overview
 
