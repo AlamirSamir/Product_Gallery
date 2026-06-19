@@ -1,4 +1,11 @@
-Welcome to the Product Gallery! A modern, responsive e-commerce web application built with Angular and Tailwind CSS. Browse, search, sort, and shop for products with a seamless user experience—complete with dark mode support.
+# 🛍️ Product Gallery A modern, responsive e-commerce web application built with Angular and Tailwind CSS. Browse, search, sort, and shop for products with a seamless user experience—complete with dark mode support.
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Angular Material](https://img.shields.io/badge/Angular_Material-009688?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
 
 🌐 **Live Demo:** [(https://product-gallery-r3b69s7oo-alamirsamirs-projects.vercel.app/products)]
 
@@ -63,3 +70,12 @@ This application allows users to:
     ng serve
     ```
 ---
+
+---
+
+## 👨‍💻 Author
+
+**Alamir Samir Selim**
+
+- GitHub: https://github.com/AlamirSamir
+- Email: Alamirsamir0@gmail.com
